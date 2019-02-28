@@ -1,6 +1,10 @@
 $navy: #FFFFF3;
 $green: #00D9C0;
 
+.no-decoration {
+  text-decoration: none;
+}
+
 html {
   background-color: $navy;
 }

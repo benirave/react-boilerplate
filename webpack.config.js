@@ -3,7 +3,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    mode: 'development',
+  mode: 'development',
   // Tell webpack to begin building its 
   // dependency graph from this file.
   entry: path.join(__dirname, 'src', 'index.js'),

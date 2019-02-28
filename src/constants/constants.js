@@ -1,0 +1,1 @@
+export const GET_WELCOME_TEXT = 'get_welcome_text';
